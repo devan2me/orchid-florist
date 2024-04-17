@@ -1,0 +1,40 @@
+body {
+    background-image: url(https://unblast.com/wp-content/uploads/2021/01/Space-Background-Image-8.jpg);
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.577);
+    color: rgb(255, 255, 255); /* You missed a colon here */
+    /*text color*/
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    font-style: italic;
+    color: azure;
+}
+
+a {
+    color: rgb(255, 255, 255);
+}
+
+a:visited {
+    color: #b5b0b0;
+}
+
+img {
+    border: 12px solid papayawhip;
+    padding: 13px;
+    margin: 5px
+}
+.rizz{
+    color: aqua;
+    font-family: chiller;
+    font-size: 35pt;
+}
+ul li:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,39 @@
+/*Positioning styles*/
+.common{
+    position: absolute;
+    border: 5px solid black;
+    /*font-size: 35pt;*/
+    background-color:burlywood
+}
+.bottom{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    font-style: italic;
+    font-size: small;
+    background-color: lightcyan;
+}
+.top{
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+}
+.content{
+    top: 100px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    height: 100%;
+}
+.nav{
+ position: relative;
+ float: right;
+ color:white
+}
+.tableauPlaceholder {
+    display: block;
+    margin: 0 auto;
+}
